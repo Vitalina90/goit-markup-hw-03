@@ -30,7 +30,7 @@ p {
     margin-bottom: 0;
 }
 
-.conteiner {
+.container {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
@@ -54,7 +54,7 @@ img {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.header-conteiner {
+.header-container {
     display: flex;
     align-items: center;
 }
@@ -249,7 +249,7 @@ img {
 
 }
 
-.team-item-conteiner {
+.team-item-container {
     padding: 32px 0;
 }
 
